@@ -1,0 +1,2 @@
+import lol
+lol.pas()
